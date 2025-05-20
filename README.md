@@ -53,8 +53,7 @@ Fail Reason: Too many females over 18.
 ## 📁 Project Structure
 
 ```
-├── Program.cs         # Main logic
-├── Individual.cs      # Individual class and related logic
+├── main.cs            # Main logic
 ├── README.md          # Project documentation
 ```
 
